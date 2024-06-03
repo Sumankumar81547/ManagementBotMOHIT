@@ -285,7 +285,7 @@ def info(update: Update, context: CallbackContext):
         disaster_level_present = True
 
     if disaster_level_present:
-        text += ' \n❍ [<a href="https://t.me/God_Ravana/39">ᴄʟɪᴄᴋ ʜᴇʀᴇ ᴛᴏ ᴋɴᴏᴡ ᴡʜᴀᴛ ɪs ᴅɪsᴀsᴛᴇʀ ʟᴇᴠᴇʟs.</a>]'.format(
+        text += ' \n❍ [<a href="https://t.me/R_I_S_I_NG/39">ᴄʟɪᴄᴋ ʜᴇʀᴇ ᴛᴏ ᴋɴᴏᴡ ᴡʜᴀᴛ ɪs ᴅɪsᴀsᴛᴇʀ ʟᴇᴠᴇʟs.</a>]'.format(
             bot.username
         )
 
@@ -323,16 +323,16 @@ def info(update: Update, context: CallbackContext):
                     [
                         [
                             InlineKeyboardButton(
-                                "ʜᴇᴀʟᴛʜ", url=f"https://t.me/God_Ravana/41"
+                                "ʜᴇᴀʟᴛʜ", url=f"https://t.me/R_I_S_I_NG/41"
                             ),
                             InlineKeyboardButton(
-                                "ᴅɪsᴀsᴛᴇʀ", url="https://t.me/God_Ravana/39"
+                                "ᴅɪsᴀsᴛᴇʀ", url="https://t.me/R_I_S_I_NG/39"
                             ),
                         ],
                         [
                             InlineKeyboardButton(
                                 text="ᴀᴅᴅ ᴍᴇ ʙᴀʙʏ",
-                                url=f"https://t.me/{BOT_USERNAME}?startgroup=true",
+                                url=f"https://t.me/AishuXBot?startgroup=true",
                             ),
                         ],
                     ]
@@ -349,16 +349,16 @@ def info(update: Update, context: CallbackContext):
                     [
                         [
                             InlineKeyboardButton(
-                                "ʜᴇᴀʟᴛʜ", url="https://t.me/God_Ravana/41"
+                                "ʜᴇᴀʟᴛʜ", url="https://t.me/R_I_S_I_NG/41"
                             ),
                             InlineKeyboardButton(
-                                "ᴅɪsᴀsᴛᴇʀ", url="https://t.me/God_Ravana/39"
+                                "ᴅɪsᴀsᴛᴇʀ", url="https://t.me/R_I_S_I_NG/39"
                             ),
                         ],
                         [
                             InlineKeyboardButton(
                                 text="ᴀᴅᴅ ᴍᴇ ʙᴀʙʏ",
-                                url=f"https://t.me/{BOT_USERNAME}?startgroup=true",
+                                url=f"https://t.me/AishuXBot?startgroup=true",
                             ),
                         ],
                     ]
