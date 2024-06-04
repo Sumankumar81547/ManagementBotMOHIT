@@ -97,7 +97,7 @@ async def repo(client, message):
                     ),
                     InlineKeyboardButton(
                         text="ʀᴇᴘᴏ",
-                        url=f"https://github.com/Sumankumar81547/ManagementBotMOHIT",
+                        url=f"https://t.me/ravan_lankaa",
                     ),
                 ]
             ]
