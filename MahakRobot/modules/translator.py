@@ -87,7 +87,7 @@ Mukesh = "https://telegra.ph/file/d4795034e1b377de23c85.jpg"
 async def repo(client, message):
     await message.reply_photo(
         photo=Mukesh,
-        caption=f"""**❍ ʜᴇʏ {message.from_user.mention()}, ᴡᴇʟᴄᴏᴍᴇ ʙᴀʙʏ !\n\n❍ ɪ ᴀᴍ [{dispatcher.bot.first_name}](t.me/{dispatcher.bot.username})**\n\n❍ **ɪғ ʏᴏᴜ ᴡᴀɴᴛ  ๛ᴍ ᴀ ʜ ᴀ ᴋ ♡゙ ʙᴏᴛ ʀᴇᴘᴏ, ᴛʜᴇɴ ᴄʟɪᴄᴋ ᴏɴ ᴛʜᴇ ʀᴇᴘᴏ ʙᴜᴛᴛᴏɴ ᴛᴏ ɢᴇᴛ ᴍʏ sᴏᴜʀᴄᴇ ᴄᴏᴅᴇ.**
+        caption=f"""**❍ ʜᴇʏ {message.from_user.mention()}, ᴡᴇʟᴄᴏᴍᴇ ʙᴀʙʏ !\n\n❍ ɪ ᴀᴍ [{dispatcher.bot.first_name}](t.me/{dispatcher.bot.username})**\n\n❍ **ɪғ ʏᴏᴜ ᴡᴀɴᴛ  ๛˹ ᴀɪꜱʜᴜ ꭙ ʀᴏʙᴏᴛ™ ♡゙, ᴛʜᴇɴ ᴄʟɪᴄᴋ ᴏɴ ᴛʜᴇ ʀᴇᴘᴏ ʙᴜᴛᴛᴏɴ ᴛᴏ ɢᴇᴛ ᴍʏ sᴏᴜʀᴄᴇ ᴄᴏᴅᴇ.**
 """,
         reply_markup=InlineKeyboardMarkup(
             [
@@ -97,7 +97,7 @@ async def repo(client, message):
                     ),
                     InlineKeyboardButton(
                         text="ʀᴇᴘᴏ",
-                        url=f"https://github.com/GOD-R4V4N/ManagementBot",
+                        url=f"https://github.com/Sumankumar81547/ManagementBotMOHIT",
                     ),
                 ]
             ]
