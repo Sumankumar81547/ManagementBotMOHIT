@@ -88,7 +88,7 @@ buttons = [
     [
         InlineKeyboardButton(
                         text="ʀᴇᴘᴏ",
-                        url=f"https://github.com/Sumankumar81547/ManagementBotMOHIT"),
+                        url=f"https://github.com/Sumankumar81547//JARVIS-SOLO-SPAMMOHIT"),
         InlineKeyboardButton(text="ᴀʙᴏᴜᴛ", callback_data="mukesh_"),
     ],
     [
