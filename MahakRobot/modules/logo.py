@@ -483,20 +483,20 @@ async def lego(event):
 
 ᰔᩚ ʟᴏɢᴏ ᴄʀᴇᴀᴛᴇᴅ ꜱᴜᴄᴄᴇꜱꜱꜰᴜʟʟʏ ᰔᩚ
 
-✦ ᴄʀᴇᴀᴛᴇᴅ ʙʏ ➛ [ ๛ᴍ ᴀ ʜ ᴀ ᴋ ♡゙](https://t.me/mahakxbot)
-━━━━━━━{BOT_NAME}━━━━━━━""",buttons=button_row
+✦ ᴄʀᴇᴀᴛᴇᴅ ʙʏ ➛ [˹ ᴀɪꜱʜᴜ ꭙ ʀᴏʙᴏᴛ™ ♡゙](https://t.me/AishuXBot)
+━━━━━━━˹ ᴀɪꜱʜᴜ ꭙ ʀᴏʙᴏᴛ™ ♡゙━━━━━━━""",buttons=button_row
 )
         await pesan.delete()
         if os.path.exists(fname):
             os.remove(fname)
     except Exception as e:
-        await event.reply(f"ᴇʀʀᴏʀ {e}, ʀᴇᴩᴏʀᴛ ᴛʜɪs ᴀᴛ @{SUPPORT_CHAT} ")
+        await event.reply(f"ᴇʀʀᴏʀ {e}, ʀᴇᴩᴏʀᴛ ᴛʜɪs ᴀᴛ @R_I_S_I_NG ")
 
 
 __mod_name__ = "ʟᴏɢᴏ"
 
 __help__ = f"""
-❍ @{BOT_USERNAME} ᴄᴀɴ ᴄʀᴇᴀᴛᴇ sᴏᴍᴇ ʙᴇᴀᴜᴛɪғᴜʟ ᴀɴᴅ ᴀᴛᴛʀᴀᴄᴛɪᴠᴇ ʟᴏɢᴏ ғᴏʀ ʏᴏᴜʀ ᴘʀᴏғɪʟᴇ ᴘɪᴄs.
+❍ @AishuXBot ᴄᴀɴ ᴄʀᴇᴀᴛᴇ sᴏᴍᴇ ʙᴇᴀᴜᴛɪғᴜʟ ᴀɴᴅ ᴀᴛᴛʀᴀᴄᴛɪᴠᴇ ʟᴏɢᴏ ғᴏʀ ʏᴏᴜʀ ᴘʀᴏғɪʟᴇ ᴘɪᴄs.
 
 
 ❍ /logo (Text) *➛* ᴄʀᴇᴀᴛᴇ ᴀ ʟᴏɢᴏ ᴏғ ʏᴏᴜʀ ɢɪᴠᴇɴ ᴛᴇxᴛ ᴡɪᴛʜ ʀᴀɴᴅᴏᴍ ᴠɪᴇᴡ.
