@@ -19,7 +19,7 @@ class Config(object):
 
     OWNER_USERNAME = ("OWNER_USERNAME", "Mohitkumar076")
     
-    SUPPORT_CHAT = getenv("SUPPORT_CHAT", "R_I_S_I_NG")
+    SUPPORT_CHAT = getenv("SUPPORT_CHAT", " masti_ka_group_dosto_ki_jaan")
    
     START_IMG = getenv("START_IMG", "https://graph.org/file/eaa3a2602e43844a488a5.jpg")
 
@@ -43,7 +43,7 @@ class Config(object):
 
     SPAMWATCH_API = getenv("SPAMWATCH_API", "3624487efd8e4ca9c949f1ab99654ad1e4de854f41a14afd00f3ca82d808dc8c")
     
-    SPAMWATCH_SUPPORT_CHAT = getenv("SPAMWATCH_SUPPORT_CHAT", "h_cc_help")
+    SPAMWATCH_SUPPORT_CHAT = getenv("SPAMWATCH_SUPPORT_CHAT", " masti_ka_group_dosto_ki_jaan")
     
     WALL_API = getenv("WALL_API", "2455acab48f3a935a8e703e54e26d121")
     
