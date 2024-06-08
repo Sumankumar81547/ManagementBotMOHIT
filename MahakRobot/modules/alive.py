@@ -34,7 +34,7 @@ MISHI = [
 Mukesh = [
     [
         InlineKeyboardButton(text="ᴜᴘᴅᴀᴛᴇ", url=f"https://t.me/ROYAL_WORLD_84"),
-        InlineKeyboardButton(text="ꜱᴜᴘᴘᴏʀᴛ", url=f"https://t.me/R_I_S_I_NG"),
+        InlineKeyboardButton(text="ꜱᴜᴘᴘᴏʀᴛ", url=f"https://t.me/masti_ka_group_dosto_ki_jaan"),
     ],
     [
         InlineKeyboardButton(
